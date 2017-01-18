@@ -1,0 +1,2 @@
+# ABZXCVBN
+ABZXCVBN is a password strength estimator for B4J inspired by password crackers, used by DropBox. Through pattern matching and conservative estimation, it recognizes and weighs 30k common passwords, common names and surnames according to US census data, popular English words from Wikipedia and US television and movies, and other common patterns like dates, repeats (aaa), sequences (abcd), keyboard patterns (qwertyuiop), and l33t speak.
